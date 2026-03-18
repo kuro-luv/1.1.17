@@ -3,8 +3,8 @@ import './App.scss'
 const App = () => {
     return (
         <div>
-            <div className='testPic'></div>
-            <p className='testText'>test cat</p>
+            <div className='test-pic'></div>
+            <p className='test-text'>test cat</p>
         </div>
     )
 }
